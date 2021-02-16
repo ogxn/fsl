@@ -1,0 +1,66 @@
+                            Feather Software License
+                                (c) Feb 16, 2020
+
+Anyone can distribute this document. You can modify this document as long as you
+change the name. You do not need to credit this license.
+
+1. DEFINITIONS
+
+"Derivative Work" means any direct modification to the Software that is not an
+incorporation of the Software into a pre-existing or new program as a
+dependency, library, or similar usage.
+
+"Document" means sections 1 through 5 of this file.
+
+"License" means the license granted in section 2 of the Document.
+
+"Software" means the software this was distributed with.
+
+"Source" form of a program is all of the source code needed to generate,
+install, and run a program, excluding any external programs incorporated as a
+dependency, library, or similar usage.
+
+2. LICENSE
+
+You are hereby granted a perpetual, irrevocable, worldwide, royalty-free, and
+non-exclusive license to adapt, modify, translate, publicly perform, publicly
+display, sublicense, or otherwise transfer or use this Software and any patents
+and trademarks pertaining to the Software.
+
+3. TERMS AND CONDITIONS
+
+  a. Distribution.
+     If you distribute an unmodified version of the Software, you must include
+     this permission notice and any copyright notices found within the Software.
+     If you have modified this Software, you do not need to include any of these
+     in your Derivative Work, but you must disclose the source code of your
+     Derivative Work.
+
+  b. Derivative Sublicensing.
+     You must distribute any Derivative Works under the Document or any other
+     license containing provisions substantially similar to the terms of this
+     Document.
+
+  c. Trademark Use.
+     You are prohibited from using trademarks relating to the Software for any
+     purpose other than to adequately describe to origin of the Software or any
+     Derivative Works.
+
+4. TERMINATION
+
+Upon violation of the terms of the Document the License shall be terminated. Any
+sublicenses you have granted are not terminated unless they were granted in
+violation of the terms of the Document.
+
+5. NO WARRANTIES OR LIABILITIES
+
+Any authors of the Software hereby disclaim any warranties and liabilities,
+express or implied, relating to this software, including, without limitation, a
+warranty or condition of merchantability or fitness for a particular purpose.
+Any authors of this Software shall not be held accountable for any damages,
+including but not limited to special, direct, indirect, consequential, or any
+other damages resulting from inability to use the Software, termination of the
+License, or otherwise, whether in an action of contract or other tortious
+action, connected with the use, performance, suitability or other attribute or
+property of the software.
+
