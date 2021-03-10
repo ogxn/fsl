@@ -6,9 +6,12 @@ change the name. You do not need to credit this license.
 
 1. DEFINITIONS
 
-"Derivative Work" means any direct modification to the Software that is not an
-incorporation of the Software into a pre-existing or new program as a
-dependency, library, or similar usage.
+"Library" means parts of a program that are used in another work exclusively
+through an interface of the program and without direct modification to the
+program.
+
+"Derivative Work" means any direct modification to the Software that is not
+Library use.
 
 "Document" means sections 1 through 5 of this file.
 
@@ -17,8 +20,7 @@ dependency, library, or similar usage.
 "Software" means the software this was distributed with.
 
 "Source" form of a program is all of the source code needed to generate,
-install, and run a program, excluding any external programs incorporated as a
-dependency, library, or similar usage.
+install, and run a program, excluding any Libraries.
 
 2. LICENSE
 
@@ -31,10 +33,9 @@ and trademarks pertaining to the Software.
 
   a. Distribution.
      If you distribute an unmodified version of the Software, you must include
-     this permission notice and any copyright notices found within the Software.
-     If you have modified this Software, you do not need to include any of these
-     in your Derivative Work, but you must disclose the source code of your
-     Derivative Work.
+     the License and any copyright notices found within the Software. If you
+     create a Derivative Work, you are not required to do so, but you must
+     disclose the Source form of the Derivative Work.
 
   b. Derivative Sublicensing.
      You must distribute any Derivative Works under the Document or any other
@@ -43,8 +44,12 @@ and trademarks pertaining to the Software.
 
   c. Trademark Use.
      You are prohibited from using trademarks relating to the Software for any
-     purpose other than to adequately describe to origin of the Software or any
-     Derivative Works.
+     purpose other than to adequately describe the origin of the Software, any
+     Derivative Works, or any programs using the Software's Libraries.
+   
+  d. Library Use.
+     Exclusive use of the Software's Libraries is permitted without restriction,
+     except for trademark use restrictions in 3(c).
 
 4. TERMINATION
 
@@ -62,5 +67,4 @@ including but not limited to special, direct, indirect, consequential, or any
 other damages resulting from inability to use the Software, termination of the
 License, or otherwise, whether in an action of contract or other tortious
 action, connected with the use, performance, suitability or other attribute or
-property of the software.
-
+property of the Software.
