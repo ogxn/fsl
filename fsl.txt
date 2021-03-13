@@ -1,5 +1,6 @@
                             Feather Software License
-                                (c) Feb 16, 2020
+                                (c) Feb 16, 2021
+                                (c) Mar 13, 2021
 
 Anyone can distribute this document. You can modify this document as long as you
 change the name. You do not need to credit this license.
