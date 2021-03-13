@@ -10,14 +10,14 @@ change the name. You do not need to credit this license.
 through an interface of the program and without direct modification to the
 program.
 
-"Derivative Work" means any direct modification to the Software that is not
-Library use.
+"Derivative Work" means any direct modification to the Software that is not use
+of its Libraries.
 
 "Document" means sections 1 through 5 of this file.
 
-"License" means the license granted in section 2 of the Document.
+"License" collectively means the licenses granted in section 2 of the Document.
 
-"Software" means the software this was distributed with.
+"Software" means the program the Document was distributed with.
 
 "Source" form of a program is all of the source code needed to generate,
 install, and run a program, excluding any Libraries.
@@ -26,8 +26,13 @@ install, and run a program, excluding any Libraries.
 
 You are hereby granted a perpetual, irrevocable, worldwide, royalty-free, and
 non-exclusive license to adapt, modify, translate, publicly perform, publicly
-display, sublicense, or otherwise transfer or use this Software and any patents
+display, sublicense, or otherwise transfer or use the Software and any patents
 and trademarks pertaining to the Software.
+-to-
+You are hereby granted perpetual, irrevocable, worldwide, royalty-free, and non-
+exclusive copyright, patent, and trademark licenses to adapt, modify, translate,
+publicly perform, publicly display, sublicense, or otherwise transfer or use the
+Software and any patents and trademarks related to the Software.
 
 3. TERMS AND CONDITIONS
 
@@ -39,7 +44,7 @@ and trademarks pertaining to the Software.
 
   b. Derivative Sublicensing.
      You must distribute any Derivative Works under the Document or any other
-     license containing provisions substantially similar to the terms of this
+     license containing provisions substantially similar to the terms of the
      Document.
 
   c. Trademark Use.
@@ -53,18 +58,19 @@ and trademarks pertaining to the Software.
 
 4. TERMINATION
 
-Upon violation of the terms of the Document the License shall be terminated. Any
-sublicenses you have granted are not terminated unless they were granted in
-violation of the terms of the Document.
+Upon violation of the terms of the Document the License and all rights granted
+shall be terminated. Any sublicenses you have granted are not terminated unless
+they were granted in violation of the terms of the Document.
 
 5. NO WARRANTIES OR LIABILITIES
 
 Any authors of the Software hereby disclaim any warranties and liabilities,
-express or implied, relating to this software, including, without limitation, a
+express or implied, relating to the Software, including, but not limited to, a
 warranty or condition of merchantability or fitness for a particular purpose.
-Any authors of this Software shall not be held accountable for any damages,
-including but not limited to special, direct, indirect, consequential, or any
-other damages resulting from inability to use the Software, termination of the
-License, or otherwise, whether in an action of contract or other tortious
-action, connected with the use, performance, suitability or other attribute or
-property of the Software.
+No authors shall be held accountable for any damages, including but not limited
+to direct, indirect, special, or consequential, resulting from any cause,
+including but not limited to inability to use the Software or termination of the
+License, should those damages be connected with the performance, suitability, or
+other attribute of the Software, improper use of the Software, or otherwise
+relating to the Software.
+
