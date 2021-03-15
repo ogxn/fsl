@@ -1,7 +1,5 @@
                             Feather Software License
-                                (c) Feb 16, 2021
-                                (c) Mar 13, 2021
-                                (c) Mar 14, 2021
+                             version 0.5, (c) 2021
 
 Anyone can distribute this document. You can modify this document as long as you
 change the name. You do not need to credit this license.
@@ -9,10 +7,9 @@ change the name. You do not need to credit this license.
 1. DEFINITIONS
 
 "Derivative Work" means any direct modification to the Software that is not
-exclusive use of the Library (unless that use reimplements a portion of the
-Software), and is not a Redistribution.
+exclusive use of the Library, and is not a Redistribution.
 
-"Document" means sections 1 through 5 of this file.
+"Document" means sections 1 through 6 of this file.
 
 A "library" is a set of programmatic tools and interfaces either included with a
 program, separately implemented, or otherwise, to interact with a program,
@@ -20,11 +17,13 @@ without otherwise modifying that program.
 
 "Library" means a library, or libraries, used for and/or included with the
 Software. Use of the Library to effectively reimplement the Software is deemed
-not exclusive use of the Library, and instead is a Redistribution.
+not exclusive use of the Library, and is deemed a Redistribution.
 
 "License" means the permission notice, and all licenses therein, in section 2.
 
-"Redistribution" means any unmodified or trivially modified versions of the
+"Licensor" means all authors of or contributors to the Software.
+
+"Redistribution" means any unmodified or trivially modified version of the
 Software.
 
 "Software" means the program the Document was distributed with.
@@ -45,31 +44,71 @@ and any patents related to the Software.
      If you distribute a Redistribution, you must include the License and any
      copyright notices found within the Software. If you create a Derivative
      Work, you must disclose the Source form of the Derivative Work.
-
-  b. Sublicensing.
-     You must distribute any Derivative Works under the Document or any other
-     licensing agreement containing provisions substantially similar to those
-     within the Document. You must distribute any Redistributions under the
-     Document.
+     
+  b. Sublicensing, Further Licensing.
+     If you distribute any Derivative Works, you must license that Derivative
+     Work under the Document or any other licensing agreement containing
+     provisions substantially similar to all of the terms of the Document
+     (excluding those within 3(d)). Such a licensing agreement may be more
+     restrictive than is required. You must sublicense any distributed
+     Redistributions under the Document.
 
   c. Trademark Use.
      You are permitted to use trademarks related to the Software to describe the
-     origin of any Redistributions or Derivative Works.
+     origin of any Redistributions or Derivative Works, even if you are not
+     required to do so.
+
+  d. Technological Circumvention.
+     Notwithstanding other provisions of the Document, the Software or any part
+     of the Software may not be deemed an effective technological measure to
+     prevent certain usage of the Software, whether this usage was intended
+     functionality or otherwise.
+
+  e. Incorporated Derivative Works.
+     If you directly and knowingly offer Licensor any Derivative Work (such as
+     through a "pull request" or otherwise), Licensor is permitted to
+     incorporate your Derivative Work, in full or in part, into the Software,
+     withstanding the provisions of that Derivative Work's licensing agreement.
+     Licensor is permitted to incorporate your Derivative Work into the Software
+     without your direct offer so long as Licensor does so in compliance with
+     that Derivative Work's licensing agreement.
 
 4. TERMINATION
 
 Upon violation of the terms of the Document the License and all rights granted
 shall be terminated. Any sublicenses you have granted are not terminated unless
-they were granted in violation of the terms of the Document.
+they were granted subsequently to your violation of the terms of the Document or
+the sublicensee has violated the terms of the Document.
 
 5. NO WARRANTIES OR LIABILITIES
 
-Any authors of the Software hereby disclaim any warranties and liabilities,
-express or implied, relating to the Software, including, but not limited to, a
-warranty or condition of merchantability or fitness for a particular purpose.
-No authors shall be held accountable for any damages, including but not limited
-to direct, indirect, special, or consequential, resulting from any cause,
-including but not limited to inability to use the Software or termination of the
-License, should those damages be connected with the performance, suitability, or
-other attribute of the Software, improper use of the Software, or otherwise
-relating to the Software.
+Licensor hereby disclaims any warranties and liabilities, express or implied,
+relating to the Software, including, but not limited to, a warranty or condition
+of merchantability or fitness for a particular purpose. Licensor shall not be
+held accountable for any damages, including but not limited to direct, indirect,
+special, or consequential, resulting from any cause, including but not limited
+to inability to use the Software or termination of the License, should those
+damages be connected with the performance, suitability, or other attribute of
+the Software, improper use of the Software, or otherwise relating to the Software.
+
+If Licensor has separately offered anything disclaimed above, with or without
+fee, 
+
+6. ABOUT THIS AGREEMENT
+
+  a. No Waiver of Unenforced Provisions.
+     Failure to enforce any provision of the Document does not indicate a waiver
+     of such provision.
+
+  b. Jurisdiction.
+     This Document is to be enforced under the law of your location, unless
+     otherwise noted by Licensor.
+
+  c. Enforceability.
+     Should any part or parts of this Document be unenforceable, the Document
+     shall be enforced to the greatest extent permitted by applicable law.
+
+  d. Separate Agreements.
+     If you and Licensor have any agreements, preexisting or subsequent, that
+     contain provisions conflicting with those of the Document, those agreements
+     shall take precedence over the Document.
